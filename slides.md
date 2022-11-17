@@ -1,8 +1,8 @@
-# Demo
+# HTBLA-Steyr
 
 --
 
-## Typography
+## Grundfakten
 
 ---
 
