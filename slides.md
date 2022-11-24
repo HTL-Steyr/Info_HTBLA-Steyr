@@ -22,45 +22,96 @@
 ## Standort
 
 >
+>  * **Tel.:** 07252/72914-0
+> * **Fax:** 07252/72914-25
+> * **E-Mail:** office@htl-steyr.ac.at
+
+---
+
+## Kontakt
+
+>
 >  * **Adresse:** Schlüsselhofgasse 63
 > * **Ort:** 4400 Steyr
-  
---
+
+---
 
 ## Abteilungen
 
----
-
-## • Elektronik und technische Informatik
-
->  `5 jährig mit Matura`
-
----
-
-## • IT und Netzwerktechnik
-
->  `5 jährig mit Matura`
-
----
-
-## • Art und Design
-
->  `5 jährig mit Matura`
+>* Elektronik und technische Informatik
+>  * 5 jährig mit Matura
+>* IT und Netzwerktechnik
+>  * 5 jährig mit Matura
+>* Art und Design
+>  * 5 jährig mit Matura
 >  * Graviertechnik
 >  * Schmuck
 >  * Kunstschmiede und Metallplastik
+>* Mechatronik
+>  * 5 jährig mit Matura
+>* Maschinenbau / Kraftfahrzeugtechnik
+>  * 4 jährig (Fachschule ohne Matura) oder 5 jährig mit Matura 
+  
+--
+
+## Lists
 
 ---
 
-## • Mechatronik
+## Unordered Lists
 
->  `5 jährig mit Matura` 
+* a
+* b
+  * 1
+  * 2
+    * I
+* c
 
 ---
 
-## • Maschinenbau / Kraftfahrzeugtechnik
+## Ordered Lists
 
->  `4 jährig (Fachschule ohne Matura) oder 5 jährig mit Matura ` 
+automatic numbering
+
+1. a
+1. b
+    1. 1
+    1. 2
+1. c
+
+---
+
+## Ordered Lists
+
+custom numbering
+
+1. a  
+2. b  
+    2.1. 1  
+    2.2. 2  
+3. c
+
+---
+
+## Definition Lists
+
+(actually: line breaks in long lines in lists...)
+
+* First Term  
+This is the definition of the first term.
+* Second Term  
+This is one definition of the second term.  
+This is another definition of the second term.
+
+---
+
+## Font Awesome
+
+*  Itym One<!-- .element: class="mdfa fa-info-circle"--> (this is a feature test in a very long item)
+*  Itym Two<!-- .element: class="mdfa fa-question-circle"-->
+*  Itym Three<!-- .element: class="mdfa fa-exclamation-circle"-->
+*  Itym 4<!-- .element: class="mdfa fa-exclamation-triangle"-->  
+with forced line break!
 
 --
 
