@@ -1,5 +1,5 @@
 # HTBLA-Steyr
-
+>...wir bilden die Zukunft
 --
 
 ## Grundfakten
@@ -8,7 +8,7 @@
 
 ## test
 
-> Quotes are ~~hard~~ easy
+> 
 > to write - but you can use `code`
 
 ---
