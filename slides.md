@@ -9,21 +9,19 @@
 ## Schule
 
 > 
-> Schulform	Höhere Technische Lehranstalt
+> Schulform: Höhere Technische Lehranstalt
 > ~ 1000 Schüler
 > ~ 130 Lehrer
 > Direktorin: `Sandra Losbichler`
 
 ---
 
-## Styles
+## Standort
 
 You can freely mix **bold**, *italics*, `code` and normal styles
 
-* normal
-* **bold**
-* *italics*
-* `code`
+* Adresse: Schlüsselhofgasse 63
+* Ort: 4400 Steyr
 
 --
 
