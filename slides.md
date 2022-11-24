@@ -24,85 +24,43 @@
 >
 >  * **Adresse:** Schlüsselhofgasse 63
 > * **Ort:** 4400 Steyr
-
----
-
-## Abteilungen
-
->* Elektronik und technische Informatik
->  * 5 jährig mit Matura
->* IT und Netzwerktechnik
->  * 5 jährig mit Matura
->* Art und Design
->  * 5 jährig mit Matura
->  * Graviertechnik
->  * Schmuck
->  * Kunstschmiede und Metallplastik
->* Mechatronik
->  * 5 jährig mit Matura
->* Maschinenbau / Kraftfahrzeugtechnik
->  * 4 jährig (Fachschule ohne Matura) oder 5 jährig mit Matura 
   
 --
 
-## Lists
+## Abteilungen
 
 ---
 
-## Unordered Lists
+## * Elektronik und technische Informatik
 
-* a
-* b
-  * 1
-  * 2
-    * I
-* c
+>  `5 jährig mit Matura`
 
 ---
 
-## Ordered Lists
+## * IT und Netzwerktechnik
 
-automatic numbering
-
-1. a
-1. b
-    1. 1
-    1. 2
-1. c
+>  `5 jährig mit Matura`
 
 ---
 
-## Ordered Lists
+## * Art und Design
 
-custom numbering
-
-1. a  
-2. b  
-    2.1. 1  
-    2.2. 2  
-3. c
+>  `5 jährig mit Matura`
+>  * Graviertechnik
+>  * Schmuck
+>  * Kunstschmiede und Metallplastik
 
 ---
 
-## Definition Lists
+## * Mechatronik
 
-(actually: line breaks in long lines in lists...)
-
-* First Term  
-This is the definition of the first term.
-* Second Term  
-This is one definition of the second term.  
-This is another definition of the second term.
+>  `5 jährig mit Matura` 
 
 ---
 
-## Font Awesome
+## * Maschinenbau / Kraftfahrzeugtechnik
 
-*  Itym One<!-- .element: class="mdfa fa-info-circle"--> (this is a feature test in a very long item)
-*  Itym Two<!-- .element: class="mdfa fa-question-circle"-->
-*  Itym Three<!-- .element: class="mdfa fa-exclamation-circle"-->
-*  Itym 4<!-- .element: class="mdfa fa-exclamation-triangle"-->  
-with forced line break!
+>  `4 jährig (Fachschule ohne Matura) oder 5 jährig mit Matura ` 
 
 --
 
