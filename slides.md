@@ -14,6 +14,7 @@
 > ~ 1000 Schüler
 > 
 > ~ 130 Lehrer
+> 
 > **Direktorin:** `Sandra Losbichler`
 
 ---
