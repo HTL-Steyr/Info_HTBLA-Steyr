@@ -1,4 +1,4 @@
-# HTBLA-Steyr  </span><!-- .element: class="decent x-small"-->
+# (HTBLA-Steyr)  </span><!-- .element: class="decent x-small"-->
 >![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/HTL_Steyr_Logo.jpg/234px-HTL_Steyr_Logo.jpg)...wir bilden die Zukunft
 --
 
