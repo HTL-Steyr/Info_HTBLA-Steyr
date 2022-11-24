@@ -69,7 +69,8 @@
 
 ## • Maschinenbau / Kraftfahrzeugtechnik
 
->  `4 jährig (Fachschule ohne Matura) oder 5 jährig mit Matura ` 
+>  `4 jährig (Fachschule ohne Matura)`
+>   `5 jährig mit Matura`
 
 
 --
