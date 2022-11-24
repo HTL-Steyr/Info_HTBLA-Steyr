@@ -1,5 +1,5 @@
-# HTBLA-Steyr  (https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/HTL_Steyr_Logo.jpg/234px-HTL_Steyr_Logo.jpg):</span><!-- .element: class="decent x-small"-->
->![](https://assets.amuniversal.com/0e1eaf909fcf012f2fe600163e41dd5b)...wir bilden die Zukunft
+# HTBLA-Steyr  </span><!-- .element: class="decent x-small"-->
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/HTL_Steyr_Logo.jpg/234px-HTL_Steyr_Logo.jpg)...wir bilden die Zukunft
 --
 
 ## Grundfakten
