@@ -21,8 +21,6 @@
 
 ## Standort
 
-You can freely mix **bold**, *italics*, `code` and normal styles
-
 * **Adresse:** Schlüsselhofgasse 63
 * **Ort:** 4400 Steyr
 
