@@ -19,7 +19,7 @@
 
 ---
 
-## Standort
+## Kontakt
 
 >
 >  * **Tel.:** 07252/72914-0
@@ -28,7 +28,7 @@
 
 ---
 
-## Kontakt
+## Standort
 
 >
 >  * **Adresse:** Schlüsselhofgasse 63
