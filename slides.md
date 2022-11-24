@@ -21,8 +21,9 @@
 
 ## Standort
 
-* **Adresse:** Schlüsselhofgasse 63
-* **Ort:** 4400 Steyr
+>
+>  * **Adresse:** Schlüsselhofgasse 63
+> * **Ort:** 4400 Steyr
 
 --
 
