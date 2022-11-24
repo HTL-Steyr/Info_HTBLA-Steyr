@@ -29,19 +29,19 @@
 
 ## Abteilungen
 
-* Elektronik und technische Informatik
-  * 5 jährig mit Matura
-* IT und Netzwerktechnik
-  * 5 jährig mit Matura
-* Art und Design
-  * 5 jährig mit Matura
-  * Graviertechnik
-  * Schmuck
-  * Kunstschmiede und Metallplastik
-* Mechatronik
-  * 5 jährig mit Matura
-* Maschinenbau / Kraftfahrzeugtechnik
-  * 4 jährig (Fachschule ohne Matura) oder 5 jährig mit Matura 
+>* Elektronik und technische Informatik
+>  * 5 jährig mit Matura
+>* IT und Netzwerktechnik
+>  * 5 jährig mit Matura
+>* Art und Design
+>  * 5 jährig mit Matura
+>  * Graviertechnik
+>  * Schmuck
+>  * Kunstschmiede und Metallplastik
+>* Mechatronik
+>  * 5 jährig mit Matura
+>* Maschinenbau / Kraftfahrzeugtechnik
+>  * 4 jährig (Fachschule ohne Matura) oder 5 jährig mit Matura 
   
 --
 
