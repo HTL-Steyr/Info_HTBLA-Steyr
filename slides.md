@@ -6,11 +6,13 @@
 
 ---
 
-## test
+## Schule
 
-> über 1000 Schüler
-> über 130 Lehrer
-> to write - but you can use `code`
+> 
+> Schulform	Höhere Technische Lehranstalt
+> ~ 1000 Schüler
+> ~ 130 Lehrer
+> Direktorin: `Sandra Losbichler`
 
 ---
 
