@@ -43,8 +43,6 @@
 ## • Elektronik und technische Informatik
 
 >  `5 jährig mit Matura`
->  
->  Was bietet der Zweig?
 > 
 >   - Hardwareentwicklung 
 >   - Messtechnik und Regelungssysteme
@@ -52,12 +50,6 @@
 >   - Kommunikationssysteme und -netze
 >   - Fachspezifische Softwaretechnik
 >   - Robotik und Digitalisierung
-
-> Ab dem 4. Jahrgang erfolgt eine Spezialisierung durch folgende Wahlmodule:
-
->  - Multimediasysteme und Web-IT
->  - Energiemanagement und Green IT
-
 
 ---
 
