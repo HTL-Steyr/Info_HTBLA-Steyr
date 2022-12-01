@@ -106,8 +106,8 @@
 
 ## Dont reveal all at once!
 
-- * Gründungsjahr 1874
-- * Anfangs unterrichteten 3 Lehrer 72 Schüler an der Schule; heute sind es über 100 Lehrer, die sich um mehr als 1000 Schüler kümmern.
+- Gründungsjahr 1874
+- Anfangs unterrichteten 3 Lehrer 72 Schüler an der Schule; heute sind es über 100 Lehrer, die sich um mehr als 1000 Schüler kümmern.
 - 
 ---
 
