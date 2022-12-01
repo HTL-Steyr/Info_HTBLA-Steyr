@@ -100,16 +100,15 @@
 
 --
 
-## Fragments
+## Geschichte
 
 ---
 
 ## Dont reveal all at once!
 
-- Item 1 <!-- .element: class="fragment" data-fragment-index="2" -->
-- Item 2 <!-- .element: class="fragment" data-fragment-index="1" -->
-- Item 3 <!-- .element: class="fragment" data-fragment-index="3" -->
-
+- * Gründungsjahr 1874
+- * Anfangs unterrichteten 3 Lehrer 72 Schüler an der Schule; heute sind es über 100 Lehrer, die sich um mehr als 1000 Schüler kümmern.
+- 
 ---
 
 ## Fancy!
