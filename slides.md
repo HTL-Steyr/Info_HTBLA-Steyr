@@ -92,7 +92,6 @@
 >  `4 jährig (Fachschule ohne Matura)`
 >   `5 jährig mit Matura`
 >   * Mechanik und Elemente des Maschinenbaus
->   * Konstruktion und Projektmanagement
 >   * Simulation und FEM Berechnung
 >   * Fahrzeug- und Antriebstechnik/ Automatisierungstechnik
 >   * Fertigungstechnik /Werkstätte und Produktionstechnik
