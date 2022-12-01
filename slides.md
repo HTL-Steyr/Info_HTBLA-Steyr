@@ -93,8 +93,8 @@
 >   `5 jährig mit Matura`
 >   * Mechanik und Elemente des Maschinenbaus
 >   * Simulation und FEM Berechnung
->   * Fahrzeug- und Antriebstechnik/ Automatisierungstechnik
->   * Fertigungstechnik /Werkstätte und Produktionstechnik
+>   * Fahrzeug-/Antriebs-/Fertigungs- Automatisierungstechnik
+>   * Werkstätte und Produktionstechnik
     
 
 
