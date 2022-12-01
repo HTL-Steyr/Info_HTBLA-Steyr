@@ -100,7 +100,6 @@
 >   * Simulation und FEM Berechnung
 >   * Fahrzeug- und Antriebstechnik/ Automatisierungstechnik
 >   * Fertigungstechnik /Werkstätte und Produktionstechnik
->   * Angewandte Informatik
     
 
 
