@@ -44,18 +44,26 @@
 
 >  `5 jährig mit Matura`
 > 
->   - Hardwareentwicklung 
->   - Messtechnik und Regelungssysteme
->   - Digitale Systeme und Computersysteme
->   - Kommunikationssysteme und -netze
->   - Fachspezifische Softwaretechnik
->   - Robotik und Digitalisierung
+>   *Hardwareentwicklung 
+>   *Messtechnik und Regelungssysteme
+>   *Digitale Systeme und Computersysteme
+>   *Kommunikationssysteme und -netze
+>   *Fachspezifische Softwaretechnik
+>   *Robotik und Digitalisierung
 
 ---
 
 ## • IT und Netzwerktechnik
 
 >  `5 jährig mit Matura`
+>  
+>   *Netzwerksicherheit und Netzwerkmanagement
+>   *Softwareentwicklung
+>   *Cloudservices und Virtualisierung
+>   *Projekt- und Qualitätsmanagement
+>   *Datenbanksysteme
+>   *Informationsmanagement
+
 
 ---
 
@@ -71,6 +79,14 @@
 ## • Mechatronik
 
 >  `5 jährig mit Matura` 
+>  
+>   *Maschinenbau/ Elektrotechnik und Elektronik/ Informatik
+>   *Mechatronische Systeme und Automatisierung
+>   *Fertigungs- und Betriebstechnik
+>   *Konstruktion und Projektmanagement
+>   *Werkstätte und Produktionstechnik
+>   *Optische Systeme
+
 
 ---
 
@@ -78,6 +94,14 @@
 
 >  `4 jährig (Fachschule ohne Matura)`
 >   `5 jährig mit Matura`
+>   
+>   *Mechanik und Elemente des Maschinenbaus
+>   *Konstruktion und Projektmanagement
+>   *Simulation und FEM Berechnung
+>   *Fahrzeug- und Antriebstechnik/ Automatisierungstechnik
+>   *Fertigungstechnik /Werkstätte und Produktionstechnik
+>   *Angewandte Informatik
+    
 
 
 --
