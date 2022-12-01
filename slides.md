@@ -43,7 +43,6 @@
 ## • Elektronik und technische Informatik
 
 >  `5 jährig mit Matura`
-> 
 >   * Hardwareentwicklung 
 >   * Messtechnik und Regelungssysteme
 >   * Digitale Systeme und Computersysteme
@@ -56,7 +55,6 @@
 ## • IT und Netzwerktechnik
 
 >  `5 jährig mit Matura`
->  
 >   * Netzwerksicherheit und Netzwerkmanagement
 >   * Softwareentwicklung
 >   * Cloudservices und Virtualisierung
@@ -79,7 +77,6 @@
 ## • Mechatronik
 
 >  `5 jährig mit Matura` 
->  
 >   * Maschinenbau/ Elektrotechnik und Elektronik/ Informatik
 >   * Mechatronische Systeme und Automatisierung
 >   * Fertigungs- und Betriebstechnik
@@ -94,7 +91,6 @@
 
 >  `4 jährig (Fachschule ohne Matura)`
 >   `5 jährig mit Matura`
->   
 >   * Mechanik und Elemente des Maschinenbaus
 >   * Konstruktion und Projektmanagement
 >   * Simulation und FEM Berechnung
