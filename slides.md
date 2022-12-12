@@ -28,7 +28,9 @@
 
 ---
 
-## Standort         <img src="https://www.htl-ooe.at/wp-content/uploads/2022/08/schule_steyr2.jpg" height="120" width="120" >
+## Standort         
+>
+<img src="https://www.htl-ooe.at/wp-content/uploads/2022/08/schule_steyr2.jpg" height="120" width="150" >
 
 >
 >  * **Adresse:** Schlüsselhofgasse 63
