@@ -2,7 +2,7 @@
 > ...wir bilden die Zukunft
 --
 
-## Grundfakten
+## Allgemein 
 
 ---
 
@@ -25,6 +25,7 @@
 >  * **Tel.:** 07252/72914-0
 > * **Fax:** 07252/72914-25
 > * **E-Mail:** office@htl-steyr.ac.at
+> * **Website:** http://www.htl-steyr.ac.at 
 
 ---
 
