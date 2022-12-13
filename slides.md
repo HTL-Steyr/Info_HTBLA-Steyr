@@ -107,101 +107,37 @@
 
 ---
 
-- Gründungsjahr: 1874
-- Anfangs unterrichteten 3 Lehrer 72 Schüler an der Schule; heute sind es über 100 Lehrer, die sich um mehr als 1000 Schüler kümmern.
-- Am 23. September 1883 wurde das neue Schulgebäude in der Schwimmschulstraße eröffnet, welches heute von der BAKIP Steyr genutzt wird. 
+> - Gründungsjahr: 1874
+> - Anfangs unterrichteten 3 Lehrer 72 Schüler an der Schule; heute sind es über 100 Lehrer, die sich um mehr als 1000 Schüler kümmern.
+> - Am 23. September 1883 wurde das neue Schulgebäude in der Schwimmschulstraße eröffnet, welches heute von der BAKIP Steyr genutzt wird. 
 
 --
 
-## Syntax highlighting   
+## Öffentliche Veranstaltungen
 
 ---
 
-## Java 
+## Tage der offenen Tür
 
-```java [1-6|3-5]
-public class TheFirst extends Object
-{
-  
-public static void main(String[] args)
-  
-{
-  
-}
-}
-```
+> Um potentiellen neuen Schülern einen Einblick in die Abläufe und Themengebiete in der Schule zu bieten
 
 ---
 
-## JavaScript
+## Frühjahrskonzert
 
-```js [1-2|3|4]
-    let a = 1;
-    let b = 2;
-    let c = x => 1 + 2 + x;
-    c(3);
-```
+> Jedes Jahr im Frühjahr trägt das Schulorchester der HTL Steyr das Frühjahrskonzert aus. 
 
 ---
 
-## Callouts 
+## Kfz-Symposium
 
-<!--https://fsymbols.com/signs/bullet-point/-->
-```java
-String switchExpressionPreview13(Direction way) {
-    return switch (way) {                         ➊
-        case N -> "Up";                           ➋
-        case S -> { yield "Down"; }               ➌
-        case E, W -> "Somewhere left or right";
-        // default -> "Foo"                       ➍
-    };
-}
-```
-
-- ➊ `switch` can be used as expression
-- ➋ `->` instead of `:` → no `break;` necessary!
-- ➌ Lambdas can be used to. For _expressions_ they must `yield` a value [version]#13#
-- ➍ `default` can be ommitted if a) no expression or b) `enum` with every value handled
+> Die HTL Steyr veranstaltet mehrtägige Kfz-Symposien (zuletzt 2019). Referenten aus Wissenschaft und Wirtschaft berichten in Vorträgen über Technik, Innovationen und Trends in der Automobilindustrie und im Maschinenbau. 
 
 ---
 
-## Callouts  (Alternative)
+## ÖVK – Vorträge
 
-<!--https://fsymbols.com/signs/bullet-point/-->
-```java
-String switchExpressionPreview13(Direction way) {
-    return switch (way) {                         ①
-        case N -> "Up";                           ②
-        case S -> { yield "Down"; }               ③
-        case E, W -> "Somewhere left or right";
-        // default -> "Foo"                       ④
-    };
-}
-```
-- ① <!-- .element: class="co"-->`switch` can be used as expression 
-- ② <!-- .element: class="co"-->`->` instead of `:` → no `break;` necessary!
-- ③ <!-- .element: class="co"-->Lambdas can be used to. For _expressions_ they must `yield` a value [version]#13#
-- ④ <!-- .element: class="co"-->`default` can be ommitted if a) no expression or b) `enum` with every value handled
-
----
-
-#### Try-with-resources now support „effectively final“ variables
-
-```java
-var inputStream = new FileInputStream(".gitignore");
-try (inputStream) { … }
-```
-
-#### Private methods in Interfaces<!-- .element: class="fragment" data-fragment-index="2" -->
-
-```java
-interface Version {
-    byte[] digits();
-    default String text() { return text(digits()); }
-    private String text(byte[] version) { … }
-}
-```
-<!-- .element: class="fragment" data-fragment-index="2" -->
+> Mehrmals jährlich finden im schuleigenen Mehrzwecksaal Vorträge des Österreichischen Vereins für Kraftfahrzeugtechnik statt. Vortragende sind Experten aus den Bereichen Auto, Motor und Technik, die über Entwicklungen in der Automobilbranche referieren. 
 
 --
 
