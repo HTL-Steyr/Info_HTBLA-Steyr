@@ -141,24 +141,19 @@
 
 --
 
-## Math
+## Veranstaltungen für Schüler
 
 ---
 
-## Single Line
+## Sportwochen
 
-
-`$$ J(\theta_0,\theta_1) = \sum_{i=0} $$`
+> In der zweiten Klasse findet eine Wintersportwoche statt, bei der die Klassen in einem Schigebiet Wintersport betreiben können und von Lehrern unterstützt werden. In der Sommersportwoche, bei der die dritten Klassen meist an einen österreichischen See reisen, können die Schüler zwischen verschiedenen Sportarten wie z. B. Segeln, Surfen, Tennis und Radfahrten wählen. 
 
 ---
 
-## Multiple lines
+## Exkursionen
 
-`$$\begin{aligned}
-  \dot{x} & = \sigma(y-x) \\
-  \dot{y} & = \rho x - y - xz \\
-  \dot{z} & = -\beta z + xy
-  \end{aligned} $$`
+> Zusätzlich zur Ausbildung an der Schule werden immer wieder Exkursionen zu verschiedensten Orten organisiert, um neben der Theorie auch einen praktischen Einblick in ihr Fachgebiet zu bekommen. Hierbei werden verschiedenste Messen, zum Beispiel die IAA Frankfurt, aber auch Industriebetriebe wie Voest-Alpine, BMW oder SKF besichtigt. 
 
 --
 
