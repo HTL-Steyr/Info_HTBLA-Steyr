@@ -109,36 +109,7 @@
 
 - Gründungsjahr 1874
 - Anfangs unterrichteten 3 Lehrer 72 Schüler an der Schule; heute sind es über 100 Lehrer, die sich um mehr als 1000 Schüler kümmern.
-- 
----
-
-## Fancy!
-
-- Highlight Red <!-- .element: class="fragment highlight-red" data-fragment-index="2" -->
-- Fade In Then Out <!-- .element: class="fragment fade-in-then-out" data-fragment-index="1" -->
-- Slide up <!-- .element: class="fragment fade-up" data-fragment-index="3" -->
-- Appear and step aside  <!-- .element: class="fragment fade-in-then-semi-out" data-fragment-index="4" -->
-
----
-
-## Distinguished
-
-- Item 1 <!-- .element: class="fragment semi-fade-out" data-fragment-index="1" -->
-- Item 2 <!-- .element: class="fragment semi-fade-out" data-fragment-index="2" -->
-- Item 3 <!-- .element: class="fragment semi-fade-out" data-fragment-index="3" -->
-- Item 4 <!-- .element: class="fragment semi-fade-out" data-fragment-index="4" -->
-- Item 5
-
----
-
-## FAQ (Example)
-
-*  Question One?<!-- .element: class="fragment mdfa fa-question-circle"-->
-*  Answer One!<!-- .element: class="fragment mdfa fa-exclamation-circle"-->
-*  Question Two?<!-- .element: class="fragment mdfa fa-question-circle"-->
-*  Answer Two!<!-- .element: class="fragment mdfa fa-exclamation-circle"-->
-*  Question Three?<!-- .element: class="fragment mdfa fa-question-circle"-->
-*  Answer Three!<!-- .element: class="fragment mdfa fa-exclamation-circle"-->
+- Am 23. September 1883 wurde das neue Schulgebäude in der Schwimmschulstraße eröffnet, welches heute von der BAKIP Steyr genutzt wird. 
 
 --
 
