@@ -122,7 +122,7 @@
 >   * Telefon: +43 (0)7252 / 72914-18
 >   * E-Mail: Franz.Parzer@htl-steyr.ac.at
 >   
->    <img src="https://user-images.githubusercontent.com/95427529/207711537-d31dc748-99a3-4028-b329-58b0c0f876d0.png" height="100" width="80" >
+>    <img src="https://user-images.githubusercontent.com/95427529/207711537-d31dc748-99a3-4028-b329-58b0c0f876d0.png" height="140" width="120" >
 
 
 ---
