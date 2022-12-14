@@ -13,11 +13,11 @@
 > 
 > **Schulform:** Höhere Technische Lehranstalt
 > 
-> **Schüler:** über 1050
+> **Schüler:** etwa 1050
 > 
-> **Lehrer:** mehr als 130 
+> **Lehrer:** etwa 130 
 > 
-> 
+> **Gründung:**	1874
 > 
 > 
 
