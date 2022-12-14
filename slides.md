@@ -11,11 +11,13 @@
 > 
 > **Schulform:** Höhere Technische Lehranstalt
 > 
-> ~ 1000 Schüler
+> **Schüler:** ungefähr 1000 
 > 
-> ~ 130 Lehrer
+> **Lehrer:** ungefähr 130 
 > 
-> **Direktorin:** `Sandra Losbichler`
+> 
+> 
+> 
 
 ---
 
