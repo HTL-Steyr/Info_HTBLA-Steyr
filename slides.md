@@ -109,7 +109,7 @@
 >   * Funktion: Schulleiterin 
 >   * Telefon: +43 (0)7252 / 72914-13
 >   * E-Mail: Sandra.Losbichler@htl-steyr.ac.at
->    <img src="https://user-images.githubusercontent.com/95427529/207710929-570d0587-7eeb-4ef0-a6c9-3efc6c85c0e2.png" height="100" width="100" >
+>    <img src="https://user-images.githubusercontent.com/95427529/207710929-570d0587-7eeb-4ef0-a6c9-3efc6c85c0e2.png" height="100" width="80" >
 
 --
 
@@ -121,7 +121,7 @@
 >   * Funktion: Abteilungsvorstand Elektronik und Technische Informatik, Informationstechnologie 
 >   * Telefon: +43 (0)7252 / 72914-18
 >   * E-Mail: Franz.Parzer@htl-steyr.ac.at
->    <img src="https://user-images.githubusercontent.com/95427529/207711537-d31dc748-99a3-4028-b329-58b0c0f876d0.png" height="100" width="100" >
+>    <img src="https://user-images.githubusercontent.com/95427529/207711537-d31dc748-99a3-4028-b329-58b0c0f876d0.png" height="100" width="80" >
 
 
 ---
@@ -130,7 +130,7 @@
 >   * Funktion: Abteilungsvorstand Art and Design
 >   * Telefon: +43 (0)7252 / 72914-10
 >   * E-Mail: Klaus.Pichler@htl-steyr.ac.at
->    <img src="https://user-images.githubusercontent.com/95427529/207712109-e7bf7a0e-5cc0-4f35-99ee-15e1e363fc3b.png" height="100" width="100" >
+>    <img src="https://user-images.githubusercontent.com/95427529/207712109-e7bf7a0e-5cc0-4f35-99ee-15e1e363fc3b.png" height="100" width="80" >
 
   
 ---
@@ -138,7 +138,7 @@
 >   * Funktion: Abteilungsvorstand Mechatronik
 >   * Telefon: +43 (0)7252 / 72914-38
 >   * E-Mail: Franz.Hinterreither@htl-steyr.ac.at
->    <img src="https://www.htl-steyr.ac.at/images/htl/lehrer/hint.jpg" height="100" width="100" >
+>    <img src="https://www.htl-steyr.ac.at/images/htl/lehrer/hint.jpg" height="100" width="80" >
 
   
 ---  
