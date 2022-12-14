@@ -12,11 +12,8 @@
 > <img src="https://www.htl-ooe.at/wp-content/uploads/2022/08/schule_steyr2.jpg" height="300" width="450" >
 > 
 > **Schulform:** Höhere Technische Lehranstalt
-> 
 > **Schüler:** etwa 1050
-> 
 > **Lehrer:** etwa 130 
-> 
 > **Gründung:**	1874
 > 
 > 
