@@ -147,7 +147,7 @@
 
   
 ---  
-
+>
 >
 >  `Benedetto Alfred, AV Dipl.-Ing.`  
 >   * Funktion: Abteilungsvorstand Maschinenbau
