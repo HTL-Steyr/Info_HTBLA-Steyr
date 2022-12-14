@@ -13,9 +13,9 @@
 > 
 > **Schulform:** Höhere Technische Lehranstalt
 > 
-> **Schüler:** ungefähr 1000 
+> **Schüler:** über 1050
 > 
-> **Lehrer:** ungefähr 130 
+> **Lehrer:** mehr als 130 
 > 
 > 
 > 
