@@ -109,6 +109,7 @@
 >   * Funktion: Schulleiterin 
 >   * Telefon: +43 (0)7252 / 72914-13
 >   * E-Mail: Sandra.Losbichler@htl-steyr.ac.at
+>   
 >    <img src="https://user-images.githubusercontent.com/95427529/207710929-570d0587-7eeb-4ef0-a6c9-3efc6c85c0e2.png" height="140" width="120" >
 
 --
@@ -145,7 +146,6 @@
 
   
 ---  
-
 >  `Benedetto Alfred, AV Dipl.-Ing.`  
 >   * Funktion: Abteilungsvorstand Maschinenbau
 >   * Telefon: +43 (0)7252 / 72914-21
