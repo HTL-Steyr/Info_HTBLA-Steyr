@@ -147,6 +147,8 @@
 
   
 ---  
+
+>
 >  `Benedetto Alfred, AV Dipl.-Ing.`  
 >   * Funktion: Abteilungsvorstand Maschinenbau
 >   * Telefon: +43 (0)7252 / 72914-21
