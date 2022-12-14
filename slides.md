@@ -110,9 +110,11 @@
 >   * E-Mail: Sandra.Losbichler@htl-steyr.ac.at
 >    <img src="https://user-images.githubusercontent.com/95427529/207710929-570d0587-7eeb-4ef0-a6c9-3efc6c85c0e2.png" height="100" width="100" >
 
----
+--
 
 ## Abteilungsvorstände
+
+---
 
 >  `Parzer Franz, AV Dipl.-Ing.`
 >   * Funktion: Abteilungsvorstand Elektronik und Technische Informatik, Informationstechnologie 
