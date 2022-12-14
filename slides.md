@@ -147,16 +147,15 @@
 
   
 ---  
->
->
->  `Benedetto Alfred, AV Dipl.-Ing.`  
+
+---
+
+>  `Benedetto Alfred, AV Dipl.-Ing.`
 >   * Funktion: Abteilungsvorstand Maschinenbau
 >   * Telefon: +43 (0)7252 / 72914-21
 >   * E-Mail: Alfred.Benedetto@htl-steyr.ac.at
 >   
->   <img src="https://www.htl-steyr.ac.at/images/htl/lehrer/bene.jpg" height="140" width="120" >
-
----  
+>    <img src="https://www.htl-steyr.ac.at/images/htl/lehrer/bene.jpg" height="140" width="120" >
 --
 
 ## Geschichte
