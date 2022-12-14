@@ -30,8 +30,8 @@
 
 ## Standort 
 
-<iframe data-src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10668.689858429716!2d14.4285794!3d48.0490077!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5477e4c88ef58d6e!2sHTL%20Steyr!5e0!3m2!1sen!2sat!4v1671047224422!5m2!1sen!2sat" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
->
+> <iframe data-src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10668.689858429716!2d14.4285794!3d48.0490077!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5477e4c88ef58d6e!2sHTL%20Steyr!5e0!3m2!1sen!2sat!4v1671047224422!5m2!1sen!2sat" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+> 
 > * **Adresse:** Schlüsselhofgasse 63
 > * **Ort:** 4400 Steyr
  
