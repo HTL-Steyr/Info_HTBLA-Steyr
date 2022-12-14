@@ -163,7 +163,6 @@
 
 > - Gründungsjahr: 1874
 > - Anfangs unterrichteten 3 Lehrer 72 Schüler an der Schule; heute sind es über 100 Lehrer, die sich um mehr als 1000 Schüler kümmern.
-> - Am 23. September 1883 wurde das neue Schulgebäude in der Schwimmschulstraße eröffnet, welches heute von der BAKIP Steyr genutzt wird. 
 
 --
 
