@@ -11,10 +11,10 @@
 > 
 > <img src="https://www.htl-ooe.at/wp-content/uploads/2022/08/schule_steyr2.jpg" height="300" width="450" >
 > 
-> **Schulform:** Höhere Technische Lehranstalt
-> **Schüler:** etwa 1050
-> **Lehrer:** etwa 130 
-> **Gründung:**	1874
+> <p> **Schulform:** Höhere Technische Lehranstalt </p>
+> <p> **Schüler:** etwa 1050 </p>
+> <p> **Lehrer:** etwa 130 </p>
+> <p> **Gründung:**	1874 </p>
 > 
 > 
 
@@ -23,7 +23,7 @@
 ## Kontakt
 
 >
->  * **Tel.:** 07252/72914-0
+> * **Tel.:** 07252/72914-0
 > * **Fax:** 07252/72914-25
 > * **E-Mail:** office@htl-steyr.ac.at
 > * **Website:** http://www.htl-steyr.ac.at 
@@ -33,9 +33,9 @@
 ## Standort         
 >
 >
-<iframe data-src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10668.689858429716!2d14.4285794!3d48.0490077!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5477e4c88ef58d6e!2sHTL%20Steyr!5e0!3m2!1sen!2sat!4v1671047224422!5m2!1sen!2sat" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe data-src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10668.689858429716!2d14.4285794!3d48.0490077!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5477e4c88ef58d6e!2sHTL%20Steyr!5e0!3m2!1sen!2sat!4v1671047224422!5m2!1sen!2sat" width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 >
->  * **Adresse:** Schlüsselhofgasse 63
+> * **Adresse:** Schlüsselhofgasse 63
 > * **Ort:** 4400 Steyr
  
 --
