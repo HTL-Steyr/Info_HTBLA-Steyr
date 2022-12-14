@@ -104,7 +104,7 @@
 
 ## Direktorin
 
->  `	Losbichler Sandra, Mag.`
+>  `Losbichler Sandra, Mag.`
 >   * Funktion: Schulleiterin 
 >   * Telefon: +43 (0)7252 / 72914-13
 >   * E-Mail: Sandra.Losbichler@htl-steyr.ac.at
@@ -112,52 +112,13 @@
 
 ---
 
-## • IT und Netzwerktechnik
+## Abteilungsvorstände
 
->  `5 jährig mit Matura`
->   * Netzwerksicherheit und Netzwerkmanagement
->   * Softwareentwicklung
->   * Cloudservices und Virtualisierung
->   * Projekt- und Qualitätsmanagement
->   * Datenbanksysteme
->   * Informationsmanagement
-
-
----
-
-## • Art und Design
-
->  `5 jährig mit Matura`
->  * Graviertechnik
->  * Schmuck
->  * Kunstschmiede und Metallplastik
-
----
-
-## • Mechatronik
-
->  `5 jährig mit Matura` 
->   * Maschinenbau/ Elektrotechnik und Elektronik/ Informatik
->   * Mechatronische Systeme und Automatisierung
->   * Fertigungs- und Betriebstechnik
->   * Konstruktion und Projektmanagement
->   * Werkstätte und Produktionstechnik
->   * Optische Systeme
-
-
----
-
-## • Maschinenbau / Kraftfahrzeugtechnik
-
->  `4 jährig (Fachschule ohne Matura)`
->   `5 jährig mit Matura`
->   * Mechanik und Elemente des Maschinenbaus
->   * Simulation und FEM Berechnung
->   * Fahrzeug-/Antriebs-/Fertigungs- Automatisierungstechnik
->   * Werkstätte und Produktionstechnik
-    
-
-
+>  `Parzer Franz, AV Dipl.-Ing.`
+>   * Funktion: Abteilungsvorstand Elektronik und Technische Informatik, Informationstechnologie 
+>   * Telefon: +43 (0)7252 / 72914-18
+>   * E-Mail: Franz.Parzer@htl-steyr.ac.at
+>    <img src="![image](https://user-images.githubusercontent.com/95427529/207711537-d31dc748-99a3-4028-b329-58b0c0f876d0.png)" height="100" width="100" >
 --
 
 ## Geschichte
