@@ -97,6 +97,65 @@
 >   * Fahrzeug-/Antriebs-/Fertigungs- Automatisierungstechnik
 >   * Werkstätte und Produktionstechnik
     
+--
+## Schulleitung   
+
+---
+
+## Direktorin
+
+>  `	Losbichler Sandra, Mag.`
+>   * Funktion: Schulleiterin 
+>   * Telefon: +43 (0)7252 / 72914-13
+>   * E-Mail: Sandra.Losbichler@htl-steyr.ac.at
+>    <img src="![image](https://user-images.githubusercontent.com/95427529/207710929-570d0587-7eeb-4ef0-a6c9-3efc6c85c0e2.png)" height="100" width="100" >
+
+---
+
+## • IT und Netzwerktechnik
+
+>  `5 jährig mit Matura`
+>   * Netzwerksicherheit und Netzwerkmanagement
+>   * Softwareentwicklung
+>   * Cloudservices und Virtualisierung
+>   * Projekt- und Qualitätsmanagement
+>   * Datenbanksysteme
+>   * Informationsmanagement
+
+
+---
+
+## • Art und Design
+
+>  `5 jährig mit Matura`
+>  * Graviertechnik
+>  * Schmuck
+>  * Kunstschmiede und Metallplastik
+
+---
+
+## • Mechatronik
+
+>  `5 jährig mit Matura` 
+>   * Maschinenbau/ Elektrotechnik und Elektronik/ Informatik
+>   * Mechatronische Systeme und Automatisierung
+>   * Fertigungs- und Betriebstechnik
+>   * Konstruktion und Projektmanagement
+>   * Werkstätte und Produktionstechnik
+>   * Optische Systeme
+
+
+---
+
+## • Maschinenbau / Kraftfahrzeugtechnik
+
+>  `4 jährig (Fachschule ohne Matura)`
+>   `5 jährig mit Matura`
+>   * Mechanik und Elemente des Maschinenbaus
+>   * Simulation und FEM Berechnung
+>   * Fahrzeug-/Antriebs-/Fertigungs- Automatisierungstechnik
+>   * Werkstätte und Produktionstechnik
+    
 
 
 --
