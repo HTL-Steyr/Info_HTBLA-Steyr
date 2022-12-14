@@ -153,7 +153,7 @@
 >   
 >   <img src="https://www.htl-steyr.ac.at/images/htl/lehrer/bene.jpg" height="140" width="120" >
 
-  
+---  
 --
 
 ## Geschichte
