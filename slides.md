@@ -51,6 +51,7 @@
 >   * Kommunikationssysteme und -netze
 >   * Fachspezifische Softwaretechnik
 >   * Robotik und Digitalisierung
+>   * Werkstätte
 
 ---
 
