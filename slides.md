@@ -1,13 +1,4 @@
 
-<style>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%
-}
- </style>
- 
 #  HTBLA-Steyr     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/HTL_Steyr_Logo.jpg/234px-HTL_Steyr_Logo.jpg" height="90" width="90">
 > ...wir bilden die Zukunft
 --
@@ -176,7 +167,7 @@
 
 > - Gründungsjahr: 1874
 > - Anfangs unterrichteten 3 Lehrer 72 Schüler an der Schule; heute sind es über 100 Lehrer, die sich um mehr als 1000 Schüler kümmern.
-> <img src="https://www.htl-steyr.ac.at/images//htl/geschichte/Geschichte%206.jpg" class="center">
+> <img src="https://www.htl-steyr.ac.at/images//htl/geschichte/Geschichte%206.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 --
 
 ## Öffentliche Veranstaltungen
