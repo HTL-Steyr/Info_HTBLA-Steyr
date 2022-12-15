@@ -123,8 +123,9 @@
 ---
 
 >  `Parzer Franz, AV Dipl.-Ing.`
->   * Funktion: Abteilungsvorstand Elektronik und Technische Informatik, 
->               Abteilungsvorstand Informationstechnologie 
+>   * Funktion: 
+>               Abteilungsvorstand Elektronik und Technische Informatik, 
+>               Abteilungsvorstand Informationstechnologie mit Schwerpunkt Netzwerktechnik
 >   * Telefon: +43 (0)7252 / 72914-18
 >   * E-Mail: Franz.Parzer@htl-steyr.ac.at
 >   
@@ -134,7 +135,8 @@
 ---
 
 >  `Pichler Klaus, AV OStR Mag.`
->   * Funktion: Abteilungsvorstand Art and Design
+>   * Funktion: 
+>               Abteilungsvorstand Art and Design
 >   * Telefon: +43 (0)7252 / 72914-10
 >   * E-Mail: Klaus.Pichler@htl-steyr.ac.at
 >   
@@ -144,7 +146,8 @@
 ---
 
 >  `Hinterreither Franz, AV Dipl.-Ing.`
->   * Funktion: Abteilungsvorstand Mechatronik
+>   * Funktion: 
+>               Abteilungsvorstand Mechatronik
 >   * Telefon: +43 (0)7252 / 72914-38
 >   * E-Mail: Franz.Hinterreither@htl-steyr.ac.at
 >   
@@ -156,7 +159,8 @@
 ---
 
 >  `Benedetto Alfred, AV Dipl.-Ing.`
->   * Funktion: Abteilungsvorstand Maschinenbau und Kraftfahrzeugtechnik
+>   * Funktion: 
+>               Abteilungsvorstand Maschinenbau und Kraftfahrzeugtechnik
 >   * Telefon: +43 (0)7252 / 72914-21
 >   * E-Mail: Alfred.Benedetto@htl-steyr.ac.at
 >   
