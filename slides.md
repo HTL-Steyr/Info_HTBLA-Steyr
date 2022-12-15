@@ -174,8 +174,8 @@
 
 > - Gründungsjahr: 1874
 > - Anfangs unterrichteten 3 Lehrer 72 Schüler an der Schule; heute sind es über 100 Lehrer, die sich um mehr als 1000 Schüler kümmern.
->    <br/>
->   <img src="https://www.htl-steyr.ac.at/images//htl/geschichte/Geschichte%206.jpg" class="center">
+    <br/>
+   <img src="https://www.htl-steyr.ac.at/images//htl/geschichte/Geschichte%206.jpg" class="center">
 
 --
 
