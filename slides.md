@@ -62,8 +62,7 @@
 >   * Softwareentwicklung
 >   * Cloudservices und Virtualisierung
 >   * Projekt- und Qualitätsmanagement
->   * Datenbanksysteme
->   * Informationsmanagement
+>   * Datenbanksysteme, Informationsmanagement
 >   * Werkstätte
 
 
@@ -95,8 +94,7 @@
 
 ## • Maschinenbau / Kraftfahrzeugtechnik
 
->  `Vierjährige Fachschule ohne Matura` oder
->   `Fünfjährige Ausbildung mit Matura`
+>  `Vierjährige Fachschule ohne Matura` oder `Fünfjährige Ausbildung mit Matura`
 >   * Mechanik und Elemente des Maschinenbaus
 >   * Simulation und FEM Berechnung von Bauteilen
 >   * Fahrzeug-/Antriebs-/Fertigungs- Automatisierungstechnik
@@ -124,8 +122,7 @@
 
 >  `Parzer Franz, AV Dipl.-Ing.`
 >   * Funktion: 
->               Abteilungsvorstand Elektronik und Technische Informatik, 
->               Abteilungsvorstand Informationstechnologie mit Schwerpunkt Netzwerktechnik
+> Abteilungsvorstand Elektronik und Technische Informatik, Abteilungsvorstand Informationstechnologie mit Schwerpunkt Netzwerktechnik
 >   * Telefon: +43 (0)7252 / 72914-18
 >   * E-Mail: Franz.Parzer@htl-steyr.ac.at
 >   
