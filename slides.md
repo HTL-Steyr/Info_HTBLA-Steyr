@@ -11,7 +11,7 @@
 
 > <img src="https://www.htl-ooe.at/wp-content/uploads/2022/08/schule_steyr2.jpg" height="300" width="500" >
 > 
-> * **Schulform:** Höhere Technische Lehranstalt 
+> * **Schulform:** Höhere Technische Bundeslehranstalt 
 > * **Schüler:** etwa 1050 
 > * **Lehrer:** etwa 130 
 > * **Gründung:**	1874 
@@ -25,7 +25,7 @@
 > * **Tel.:** 07252/72914-0
 > * **Fax:** 07252/72914-25
 > * **E-Mail:** office@htl-steyr.ac.at
-> * **Website:** http://www.htl-steyr.ac.at 
+> * **Website:** https://www.htl-steyr.ac.at 
 
 ---
 
