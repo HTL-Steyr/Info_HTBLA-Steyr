@@ -1,3 +1,13 @@
+
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
+ </style>
+ 
 #  HTBLA-Steyr     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/HTL_Steyr_Logo.jpg/234px-HTL_Steyr_Logo.jpg" height="90" width="90">
 > ...wir bilden die Zukunft
 --
@@ -212,13 +222,4 @@
 > Zusätzlich zur Ausbildung an der Schule werden immer wieder Exkursionen zu verschiedensten Orten organisiert, um neben der Theorie auch einen praktischen Einblick in ihr Fachgebiet zu bekommen. Hierbei werden verschiedenste Messen, zum Beispiel die IAA Frankfurt, aber auch Industriebetriebe wie Voest-Alpine, BMW oder SKF besichtigt. 
 
 
-<style>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  text-align: center;
-}
- </style>
  
