@@ -45,7 +45,7 @@
 
 ## • Elektronik und technische Informatik
 
->  `5 jährig mit Matura`
+>  `Fünfjährige Ausbildung mit Matura`
 >   * Hardwareentwicklung 
 >   * Messtechnik und Regelungssysteme
 >   * Digitale Systeme und Computersysteme
@@ -55,47 +55,50 @@
 
 ---
 
-## • IT und Netzwerktechnik
+## • Informationstechnologie mit Schwerpunkt Netzwerktechnik
 
->  `5 jährig mit Matura`
+>  `Fünfjährige Ausbildung mit Matura`
 >   * Netzwerksicherheit und Netzwerkmanagement
 >   * Softwareentwicklung
 >   * Cloudservices und Virtualisierung
 >   * Projekt- und Qualitätsmanagement
 >   * Datenbanksysteme
 >   * Informationsmanagement
+>   * Werkstätte
 
 
 ---
 
-## • Art und Design
+## • Art and Design
 
->  `5 jährig mit Matura`
+>  `Fünfjährige Ausbildung mit Matura`
 >  * Graviertechnik
 >  * Schmuck
 >  * Kunstschmiede und Metallplastik
+>  * Werkstätte
 
 ---
 
 ## • Mechatronik
 
->  `5 jährig mit Matura` 
->   * Maschinenbau/ Elektrotechnik und Elektronik/ Informatik
+>  `Fünfjährige Ausbildung mit Matura` 
+>   * Maschinenbau / Elektrotechnik und Elektronik / Informatik
 >   * Mechatronische Systeme und Automatisierung
 >   * Fertigungs- und Betriebstechnik
 >   * Konstruktion und Projektmanagement
 >   * Werkstätte und Produktionstechnik
 >   * Optische Systeme
+>   * Werkstätte
 
 
 ---
 
 ## • Maschinenbau / Kraftfahrzeugtechnik
 
->  `4 jährig (Fachschule ohne Matura)`
->   `5 jährig mit Matura`
+>  `Vierjährige Fachschule ohne Matura` oder
+>   `Fünfjährige Ausbildung mit Matura`
 >   * Mechanik und Elemente des Maschinenbaus
->   * Simulation und FEM Berechnung
+>   * Simulation und FEM Berechnung von Bauteilen
 >   * Fahrzeug-/Antriebs-/Fertigungs- Automatisierungstechnik
 >   * Werkstätte und Produktionstechnik
     
@@ -120,7 +123,8 @@
 ---
 
 >  `Parzer Franz, AV Dipl.-Ing.`
->   * Funktion: Abteilungsvorstand Elektronik und Technische Informatik, Informationstechnologie 
+>   * Funktion: Abteilungsvorstand Elektronik und Technische Informatik, 
+>               Abteilungsvorstand Informationstechnologie 
 >   * Telefon: +43 (0)7252 / 72914-18
 >   * E-Mail: Franz.Parzer@htl-steyr.ac.at
 >   
@@ -152,7 +156,7 @@
 ---
 
 >  `Benedetto Alfred, AV Dipl.-Ing.`
->   * Funktion: Abteilungsvorstand Maschinenbau
+>   * Funktion: Abteilungsvorstand Maschinenbau und Kraftfahrzeugtechnik
 >   * Telefon: +43 (0)7252 / 72914-21
 >   * E-Mail: Alfred.Benedetto@htl-steyr.ac.at
 >   
@@ -166,7 +170,7 @@
 
 
 > - Gründungsjahr: 1874
-> - Anfangs unterrichteten 3 Lehrer 72 Schüler an der Schule; heute sind es über 100 Lehrer, die sich um mehr als 1000 Schüler kümmern.
+> - Anfangs unterrichteten drei Lehrer 72 Schüler an der Schule; heute sind es über 100 Lehrer, die sich um mehr als 1000 Schüler kümmern.
 > <img src="https://www.htl-steyr.ac.at/images//htl/geschichte/Geschichte%206.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 --
 
@@ -176,19 +180,19 @@
 
 ## Tage der offenen Tür
 
-> Um potentiellen neuen Schülern einen Einblick in die Abläufe und Themengebiete in der Schule zu bieten
+> Die Tag der offenen Tür bieten potentiellen neuen Schüler/innen einen Einblick in die Abläufe und Themengebiete in der Schule zu bieten
 
 ---
 
 ## Frühjahrskonzert
 
-> Jedes Jahr im Frühjahr trägt das Schulorchester der HTL Steyr das Frühjahrskonzert aus. 
+> Jedes Jahr im Frühjahr spiel das Schulorchester der HTL Steyr das Frühjahrskonzert. 
 
 ---
 
 ## Kfz-Symposium
 
-> Die HTL Steyr veranstaltet mehrtägige Kfz-Symposien (zuletzt 2019). Referenten aus Wissenschaft und Wirtschaft berichten in Vorträgen über Technik, Innovationen und Trends in der Automobilindustrie und im Maschinenbau. 
+> Die HTL Steyr veranstaltet mehrtägige Kfz-Symposien. Referenten aus Wissenschaft und Wirtschaft berichten in Vorträgen über Technik, Innovationen und Trends in der Automobilindustrie und im Maschinenbau. 
 
 ---
 
